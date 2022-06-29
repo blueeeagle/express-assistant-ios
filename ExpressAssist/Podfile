@@ -1,0 +1,28 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'ExpressAssist' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+pod 'SwiftyJSON'
+pod 'IQKeyboardManager'
+pod 'AlamofireImage'
+pod 'Alamofire', '~> 4.7'
+pod 'CRNotifications'
+pod 'GoogleMaps'
+pod 'GooglePlaces'
+pod 'SDWebImage'
+pod 'ImageSlideshow', '~> 1.8.3'
+pod "ImageSlideshow/Alamofire"
+pod 'DJSemiModalViewController'
+pod 'Socket.IO-Client-Swift', '~> 15.1.0'
+pod 'Firebase/Messaging'
+pod 'Firebase/Analytics'
+pod 'Firebase/Auth'
+pod 'MessageKit'
+pod 'GoogleSignIn'
+pod 'Firebase/Firestore'
+pod 'Firebase/Database'
+  # Pods for ExpressAssist
+
+end

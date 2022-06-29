@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1036931234599-bs3e5cok9mgnl4cs2fn1rkq93hf42ojn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1036931234599-bs3e5cok9mgnl4cs2fn1rkq93hf42ojn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1036931234599-8u4brqb8o37frc5tdvssm7a0locj3230.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB6_fPLI9wOReOSgLecd5odIlvHFJSCeTo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1036931234599</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Ranolia.Express</string>
+	<key>PROJECT_ID</key>
+	<string>expressassistuser-5ef0b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>expressassistuser-5ef0b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1036931234599:ios:0e1011c3ee383396c64702</string>
+	<key>DATABASE_URL</key>
+	<string>https://quixotic-skill-288208-default-rtdb.firebaseio.com/</string>
+</dict>
+</plist>

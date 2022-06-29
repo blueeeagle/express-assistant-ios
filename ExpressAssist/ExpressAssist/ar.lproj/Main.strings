@@ -1,0 +1,348 @@
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "2Ab-f1-d2f"; */
+"2Ab-f1-d2f.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا"; ObjectID = "2v9-ac-DyD"; */
+"2v9-ac-DyD.text" = "استمر باللغة العربية";
+
+/* Class = "UILabel"; text = "7403-RUA"; ObjectID = "3MP-Te-WXv"; */
+"3MP-Te-WXv.text" = "7403-RUA";
+
+/* Class = "UIButton"; normalTitle = "ADD NEW VEHICLE"; ObjectID = "3WT-qh-AxO"; */
+"3WT-qh-AxO.normalTitle" = "ADD NEW VEHICLE";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "3cZ-6V-jZ0"; */
+"3cZ-6V-jZ0.text" = "Forgot Password";
+
+/* Class = "UILabel"; text = "Secure and safe"; ObjectID = "3dX-RR-meS"; */
+"3dX-RR-meS.text" = "Secure and safe";
+
+/* Class = "UILabel"; text = "No More Orders"; ObjectID = "55j-Hw-rof"; */
+"55j-Hw-rof.text" = "No More Orders";
+
+/* Class = "UILabel"; text = "Service History"; ObjectID = "5PZ-db-zOw"; */
+"5PZ-db-zOw.text" = "Service History";
+
+/* Class = "UILabel"; text = "Registred on 14th Aug 2020"; ObjectID = "6p5-VK-Iot"; */
+"6p5-VK-Iot.text" = "Registred on 14th Aug 2020";
+
+/* Class = "UILabel"; text = "Samar Husain"; ObjectID = "7L4-Ri-Uop"; */
+"7L4-Ri-Uop.text" = "Samar Husain";
+
+/* Class = "UILabel"; text = "Booking confirmation"; ObjectID = "7Nf-Tm-Kll"; */
+"7Nf-Tm-Kll.text" = "Booking confirmation";
+
+/* Class = "UILabel"; text = "Thank You!"; ObjectID = "7Ow-bp-CMu"; */
+"7Ow-bp-CMu.text" = "Thank You!";
+
+/* Class = "UILabel"; text = "Complains/problems or any issue."; ObjectID = "83w-gA-T7T"; */
+"83w-gA-T7T.text" = "Complains/problems or any issue.";
+
+/* Class = "UILabel"; text = "5 BHD/ year"; ObjectID = "84I-yu-bXJ"; */
+"84I-yu-bXJ.text" = "5 BHD/ year";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "8Hj-lC-upB"; */
+"8Hj-lC-upB.text" = "John Doe";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "8v7-ag-gBR"; */
+"8v7-ag-gBR.text" = "Language";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "8wy-BM-Sin"; */
+"8wy-BM-Sin.text" = "Last Name";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "9BR-ZM-pZw"; */
+"9BR-ZM-pZw.text" = "Subject";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "9bE-G3-pmo"; */
+"9bE-G3-pmo.text" = "English";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum"; ObjectID = "9e0-GF-b7O"; */
+"9e0-GF-b7O.text" = "Choose to continue in english.";
+
+/* Class = "UILabel"; text = "Arabic"; ObjectID = "A8Y-Nc-dQz"; */
+"A8Y-Nc-dQz.text" = "Arabic";
+
+/* Class = "UITextField"; placeholder = "Choose your vehicle type"; ObjectID = "AE7-fS-pSd"; */
+"AE7-fS-pSd.placeholder" = "Choose your vehicle type";
+
+/* Class = "UILabel"; text = "Email Address"; ObjectID = "AsP-Cx-41b"; */
+"AsP-Cx-41b.text" = "Email Address";
+
+/* Class = "UILabel"; text = "Sep 06 2020 9:21 AM"; ObjectID = "BSC-gx-Hwt"; */
+"BSC-gx-Hwt.text" = "Sep 06 2020 9:21 AM";
+
+/* Class = "UILabel"; text = "Login to manage your account"; ObjectID = "Bp8-Lx-YWc"; */
+"Bp8-Lx-YWc.text" = "Login to manage your account";
+
+/* Class = "UILabel"; text = "Complains"; ObjectID = "CDI-7D-iQM"; */
+"CDI-7D-iQM.text" = "Complains";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "CHY-b0-VO7"; */
+"CHY-b0-VO7.text" = "First Name";
+
+/* Class = "UILabel"; text = "27-09-2020"; ObjectID = "Coq-QZ-CaL"; */
+"Coq-QZ-CaL.text" = "27-09-2020";
+
+/* Class = "UITextField"; placeholder = "Vehicle registration number"; ObjectID = "DSP-Kr-Wo6"; */
+"DSP-Kr-Wo6.placeholder" = "Vehicle registration number";
+
+/* Class = "UILabel"; text = "3 Service"; ObjectID = "EWf-oX-opE"; */
+"EWf-oX-opE.text" = "3 Service";
+
+/* Class = "UILabel"; text = "Calesate Stater"; ObjectID = "EkY-0l-oUc"; */
+"EkY-0l-oUc.text" = "Calesate Stater";
+
+/* Class = "UILabel"; text = "sam@gmail.com"; ObjectID = "Eq2-Q2-Zfe"; */
+"Eq2-Q2-Zfe.text" = "sam@gmail.com";
+
+/* Class = "UILabel"; text = "Calesate Wise"; ObjectID = "EuH-Dl-Dge"; */
+"EuH-Dl-Dge.text" = "Calesate Wise";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "Fcy-qD-Fmc"; */
+"Fcy-qD-Fmc.text" = "Message";
+
+/* Class = "UITextView"; text = "Feedback...."; ObjectID = "FeU-28-H0z"; */
+"FeU-28-H0z.text" = "Feedback....";
+
+/* Class = "UILabel"; text = "Unlimited and fast assist"; ObjectID = "FhD-Lg-fcD"; */
+"FhD-Lg-fcD.text" = "Unlimited and fast assist";
+
+/* Class = "UILabel"; text = "My Order"; ObjectID = "FiM-nc-6l0"; */
+"FiM-nc-6l0.text" = "My Order";
+
+/* Class = "UILabel"; text = "7403-RUA"; ObjectID = "GGa-HL-tpj"; */
+"GGa-HL-tpj.text" = "7403-RUA";
+
+/* Class = "UILabel"; text = "Emal Address"; ObjectID = "GKW-bT-LyQ"; */
+"GKW-bT-LyQ.text" = "Emal Address";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "HHp-u7-IdW"; */
+"HHp-u7-IdW.text" = "John Doe";
+
+/* Class = "UILabel"; text = "Service History"; ObjectID = "I4R-or-kAw"; */
+"I4R-or-kAw.text" = "Service History";
+
+/* Class = "UILabel"; text = "Vehicle ownership image"; ObjectID = "Ikl-n8-ThI"; */
+"Ikl-n8-ThI.text" = "Vehicle ownership image";
+
+/* Class = "UILabel"; text = "Complains"; ObjectID = "Kb9-lD-KY9"; */
+"Kb9-lD-KY9.text" = "Complains";
+
+/* Class = "UILabel"; text = "7292 dictum Av. san  47096"; ObjectID = "Keg-E0-1Ph"; */
+"Keg-E0-1Ph.text" = "7292 dictum Av. san  47096";
+
+/* Class = "UILabel"; text = "No extra charges"; ObjectID = "Kfj-dA-Tae"; */
+"Kfj-dA-Tae.text" = "No extra charges";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "Kiq-1s-FJc"; */
+"Kiq-1s-FJc.text" = "Mobile Number";
+
+/* Class = "UILabel"; text = "Push Notification"; ObjectID = "Kk1-e8-OWU"; */
+"Kk1-e8-OWU.text" = "Push Notification";
+
+/* Class = "UILabel"; text = "We have sent a OTP to 9719495539"; ObjectID = "LaY-C9-eC3"; */
+"LaY-C9-eC3.text" = "We have sent a OTP to 9719495539";
+
+/* Class = "UILabel"; text = "OTP Verification"; ObjectID = "Lj7-tH-jgK"; */
+"Lj7-tH-jgK.text" = "OTP Verification";
+
+/* Class = "UILabel"; text = "Welcome to Express Assist."; ObjectID = "MDi-cC-Qft"; */
+"MDi-cC-Qft.text" = "Welcome to Express Assist.";
+
+/* Class = "UILabel"; text = "My Profile"; ObjectID = "Nhd-7o-peI"; */
+"Nhd-7o-peI.text" = "My Profile";
+
+/* Class = "UIButton"; normalTitle = "RESET PASSWORD"; ObjectID = "O24-Sz-Kl7"; */
+"O24-Sz-Kl7.normalTitle" = "RESET PASSWORD";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "PE9-EN-ozX"; */
+"PE9-EN-ozX.text" = "Last Name";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "PR2-Bg-eVx"; */
+"PR2-Bg-eVx.normalTitle" = "CONTINUE";
+
+/* Class = "UILabel"; text = "One time payment for complete year"; ObjectID = "Plp-uw-Txu"; */
+"Plp-uw-Txu.text" = "One time payment for complete year";
+
+/* Class = "UILabel"; text = "Arabic"; ObjectID = "Q5E-f3-9Xr"; */
+"Q5E-f3-9Xr.text" = "Arabic";
+
+/* Class = "UILabel"; text = "Charged yearly *Non refundable"; ObjectID = "QU2-uU-2x4"; */
+"QU2-uU-2x4.text" = "Charged yearly *Non refundable";
+
+/* Class = "UILabel"; text = "Samar Husain"; ObjectID = "QlJ-j6-Lrc"; */
+"QlJ-j6-Lrc.text" = "Samar Husain";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"; ObjectID = "QmK-T2-7YY"; */
+"QmK-T2-7YY.text" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever";
+
+/* Class = "UIButton"; normalTitle = "Back to sign in"; ObjectID = "QqH-ak-PV3"; */
+"QqH-ak-PV3.normalTitle" = "Back to sign in";
+
+/* Class = "UILabel"; text = "Notification Title"; ObjectID = "REY-zk-EVj"; */
+"REY-zk-EVj.text" = "Notification Title";
+
+/* Class = "UILabel"; text = "Registred on 14th Aug 2020"; ObjectID = "RPO-aJ-u1x"; */
+"RPO-aJ-u1x.text" = "Registred on 14th Aug 2020";
+
+/* Class = "UILabel"; text = "7292 dictum Av. san Anronio Mi 47096"; ObjectID = "RRp-jL-hPg"; */
+"RRp-jL-hPg.text" = "7292 dictum Av. san Anronio Mi 47096";
+
+/* Class = "UILabel"; text = "Choose Language"; ObjectID = "T2N-J4-R8b"; */
+"T2N-J4-R8b.text" = "Choose Language";
+
+/* Class = "UILabel"; text = "Samar Husain"; ObjectID = "UMQ-e2-1lD"; */
+"UMQ-e2-1lD.text" = "Samar Husain";
+
+/* Class = "UILabel"; text = "Add new vehicle"; ObjectID = "VQ3-m1-4gN"; */
+"VQ3-m1-4gN.text" = "Add new vehicle";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "WkJ-6Z-tQH"; */
+"WkJ-6Z-tQH.text" = "First Name";
+
+/* Class = "UIButton"; normalTitle = "SEND OTP"; ObjectID = "Wof-vp-O5J"; */
+"Wof-vp-O5J.normalTitle" = "SEND OTP";
+
+/* Class = "UILabel"; text = "7292 dictum Av. san  47096"; ObjectID = "Xww-pH-xwa"; */
+"Xww-pH-xwa.text" = "7292 dictum Av. san  47096";
+
+/* Class = "UILabel"; text = "Meet John Doe at the pickup points"; ObjectID = "ZIW-nb-oll"; */
+"ZIW-nb-oll.text" = "Meet John Doe at the pickup points";
+
+/* Class = "UILabel"; text = "7292 dictum Av. san  47096"; ObjectID = "ZmD-yk-ilP"; */
+"ZmD-yk-ilP.text" = "7292 dictum Av. san  47096";
+
+/* Class = "UILabel"; text = "606-357 Ullamcorpor. street Roseville NH 11525"; ObjectID = "aC5-4u-fty"; */
+"aC5-4u-fty.text" = "606-357 Ullamcorpor. street Roseville NH 11525";
+
+/* Class = "UILabel"; text = "Emal Address"; ObjectID = "aaF-6N-6HX"; */
+"aaF-6N-6HX.text" = "Emal Address";
+
+/* Class = "UILabel"; text = "7/24 priority support"; ObjectID = "bTf-FJ-uxD"; */
+"bTf-FJ-uxD.text" = "7/24 priority support";
+
+/* Class = "UIButton"; normalTitle = "REGISTER NOW"; ObjectID = "c5F-lt-GXA"; */
+"c5F-lt-GXA.normalTitle" = "REGISTER NOW";
+
+/* Class = "UILabel"; text = "7292 dictum Av. san  47096"; ObjectID = "cGg-6a-Unp"; */
+"cGg-6a-Unp.text" = "7292 dictum Av. san  47096";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "cP0-ZR-3FU"; */
+"cP0-ZR-3FU.text" = "English";
+
+/* Class = "UILabel"; text = "Towing track will arrive in 30 min (40 km)"; ObjectID = "dgg-Yf-1ms"; */
+"dgg-Yf-1ms.text" = "Towing track will arrive in 30 min (40 km)";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "dwV-20-ZPd"; */
+"dwV-20-ZPd.text" = "Notifications";
+
+/* Class = "UIButton"; normalTitle = "Varify OTP"; ObjectID = "e3p-hk-kRu"; */
+"e3p-hk-kRu.normalTitle" = "Varify OTP";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "efx-Yx-dIs"; */
+"efx-Yx-dIs.text" = "Edit Profile";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "fOo-SF-olD"; */
+"fOo-SF-olD.normalTitle" = "CONTINUE";
+
+/* Class = "UILabel"; text = "Welcome Back"; ObjectID = "gjE-dF-VtA"; */
+"gjE-dF-VtA.text" = "Welcome Back";
+
+/* Class = "UILabel"; text = "Enter your email address below"; ObjectID = "hfU-AK-vCs"; */
+"hfU-AK-vCs.text" = "Enter your email address below";
+
+/* Class = "UILabel"; text = "Calista Wise"; ObjectID = "hhI-Us-qmp"; */
+"hhI-Us-qmp.text" = "Calista Wise";
+
+/* Class = "UIButton"; normalTitle = "CHOOSE PLAN"; ObjectID = "jrC-Du-J35"; */
+//"jrC-Du-J35.normalTitle" = "PLAN";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum"; ObjectID = "jtW-XF-PdE"; */
+"jtW-XF-PdE.text" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "jyf-Ib-6ET"; */
+"jyf-Ib-6ET.text" = "Mobile Number";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "kDh-Sw-APx"; */
+"kDh-Sw-APx.text" = "Notification";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "khb-cB-4Jn"; */
+"khb-cB-4Jn.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Fill out the form to get started."; ObjectID = "kuD-8k-Fl7"; */
+"kuD-8k-Fl7.text" = "Fill out the form to get started.";
+
+/* Class = "UILabel"; text = "Avaliablity"; ObjectID = "lnG-q8-9L7"; */
+"lnG-q8-9L7.text" = "Avaliablity";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "lxp-U0-ff3"; */
+"lxp-U0-ff3.text" = "John Doe";
+
+/* Class = "UILabel"; text = "Booking Request"; ObjectID = "nJv-ii-Eyl"; */
+"nJv-ii-Eyl.text" = "Booking Request";
+
+/* Class = "UILabel"; text = "Order#1976435"; ObjectID = "oCv-aI-23N"; */
+"oCv-aI-23N.text" = "Order#1976435";
+
+/* Class = "UILabel"; text = "606-357 Ullamcorpor. street Roseville NH 11525"; ObjectID = "ohd-69-zAH"; */
+"ohd-69-zAH.text" = "606-357 Ullamcorpor. street Roseville NH 11525";
+
+/* Class = "UILabel"; text = "Choose Language"; ObjectID = "ols-aq-Sxs"; */
+"ols-aq-Sxs.text" = "Choose Language";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "pMq-Ve-h2N"; */
+"pMq-Ve-h2N.text" = "Mobile Number";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "qEP-QH-Iic"; */
+"qEP-QH-Iic.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "7292 dictum Av. san  47096"; ObjectID = "rNa-pc-v1J"; */
+"rNa-pc-v1J.text" = "7292 dictum Av. san  47096";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "sS9-yl-zZ1"; */
+"sS9-yl-zZ1.text" = "English";
+
+/* Class = "UILabel"; text = "John Deo"; ObjectID = "tA9-ki-tyx"; */
+"tA9-ki-tyx.text" = "John Deo";
+
+/* Class = "UILabel"; text = "Vehicle Type"; ObjectID = "tSl-jK-e8a"; */
+"tSl-jK-e8a.text" = "Vehicle Type";
+
+/* Class = "UILabel"; text = "My Vechicle"; ObjectID = "uGt-CV-HM0"; */
+"uGt-CV-HM0.text" = "My Vechicle";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "ubw-Sp-lYf"; */
+"ubw-Sp-lYf.text" = "Payment";
+
+/* Class = "UIButton"; normalTitle = "Track Order"; ObjectID = "uqp-YV-Kmp"; */
+"uqp-YV-Kmp.normalTitle" = "Track Order";
+
+/* Class = "UILabel"; text = "وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا"; ObjectID = "vfm-gI-khn"; */
+"vfm-gI-khn.text" = "وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا";
+
+/* Class = "UILabel"; text = "8057642535"; ObjectID = "xYe-3i-T5c"; */
+"xYe-3i-T5c.text" = "8057642535";
+
+/* Class = "UILabel"; text = "Subscription Plan"; ObjectID = "xan-6Y-val"; */
+"xan-6Y-val.text" = "Subscription Plan";
+
+/* Class = "UILabel"; text = "7292 dictum Av. san  47096"; ObjectID = "y8m-OD-3cx"; */
+"y8m-OD-3cx.text" = "7292 dictum Av. san  47096";
+
+/* Class = "UILabel"; text = "Choose your preferred language"; ObjectID = "yQd-UX-Ddc"; */
+"yQd-UX-Ddc.text" = "Choose your preferred language";
+
+/* Class = "UILabel"; text = "Set up push notification"; ObjectID = "yfe-Fm-SuG"; */
+"yfe-Fm-SuG.text" = "Set up push notification";
+
+/* Class = "UILabel"; text = "Towing truck arriving in 30 min"; ObjectID = "yhi-lZ-bVV"; */
+"yhi-lZ-bVV.text" = "Towing truck arriving in 30 min";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "ykx-Br-Jfi"; */
+"ykx-Br-Jfi.text" = "Notifications";
+
+/* Class = "UILabel"; text = "We are glad to you liked assist any comments?"; ObjectID = "ylU-t0-TsU"; */
+"ylU-t0-TsU.text" = "We are glad to you liked assist any comments?";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "zSi-cU-RJv"; */
+"zSi-cU-RJv.normalTitle" = "X";

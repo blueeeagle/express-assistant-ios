@@ -1,0 +1,6 @@
+framework module Pods_ExpressAssist {
+  umbrella header "Pods-ExpressAssist-umbrella.h"
+
+  export *
+  module * { export * }
+}

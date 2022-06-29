@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="ExpressAssist/Base.lproj/Main.storyboard" source-language="en" target-language="ar" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B500"/>
+    </header>
+    <body>
+      <trans-unit id="2Ab-f1-d2f.normalTitle" xml:space="preserve">
+        <source>SUBMIT</source>
+        <target>SUBMIT</target>
+        <note>Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "2Ab-f1-d2f";</note>
+      </trans-unit>
+      <trans-unit id="2v9-ac-DyD.text" xml:space="preserve">
+        <source>وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا</source>
+        <target>وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا</target>
+        <note>Class = "UILabel"; text = "وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا"; ObjectID = "2v9-ac-DyD";</note>
+      </trans-unit>
+      <trans-unit id="3MP-Te-WXv.text" xml:space="preserve">
+        <source>7403-RUA</source>
+        <target>7403-RUA</target>
+        <note>Class = "UILabel"; text = "7403-RUA"; ObjectID = "3MP-Te-WXv";</note>
+      </trans-unit>
+      <trans-unit id="3WT-qh-AxO.normalTitle" xml:space="preserve">
+        <source>ADD NEW VEHICLE</source>
+        <target>ADD NEW VEHICLE</target>
+        <note>Class = "UIButton"; normalTitle = "ADD NEW VEHICLE"; ObjectID = "3WT-qh-AxO";</note>
+      </trans-unit>
+      <trans-unit id="3cZ-6V-jZ0.text" xml:space="preserve">
+        <source>Forgot Password</source>
+        <target>Forgot Password</target>
+        <note>Class = "UILabel"; text = "Forgot Password"; ObjectID = "3cZ-6V-jZ0";</note>
+      </trans-unit>
+      <trans-unit id="3dX-RR-meS.text" xml:space="preserve">
+        <source>Secure and safe</source>
+        <target>Secure and safe</target>
+        <note>Class = "UILabel"; text = "Secure and safe"; ObjectID = "3dX-RR-meS";</note>
+      </trans-unit>
+      <trans-unit id="5PZ-db-zOw.text" xml:space="preserve">
+        <source>Service History</source>
+        <target>Service History</target>
+        <note>Class = "UILabel"; text = "Service History"; ObjectID = "5PZ-db-zOw";</note>
+      </trans-unit>
+      <trans-unit id="6p5-VK-Iot.text" xml:space="preserve">
+        <source>Registred on 14th Aug 2020</source>
+        <target>Registred on 14th Aug 2020</target>
+        <note>Class = "UILabel"; text = "Registred on 14th Aug 2020"; ObjectID = "6p5-VK-Iot";</note>
+      </trans-unit>
+      <trans-unit id="7L4-Ri-Uop.text" xml:space="preserve">
+        <source>Samar Husain</source>
+        <target>Samar Husain</target>
+        <note>Class = "UILabel"; text = "Samar Husain"; ObjectID = "7L4-Ri-Uop";</note>
+      </trans-unit>
+      <trans-unit id="7Nf-Tm-Kll.text" xml:space="preserve">
+        <source>Booking confirmation</source>
+        <target>Booking confirmation</target>
+        <note>Class = "UILabel"; text = "Booking confirmation"; ObjectID = "7Nf-Tm-Kll";</note>
+      </trans-unit>
+      <trans-unit id="7Ow-bp-CMu.text" xml:space="preserve">
+        <source>Thank You!</source>
+        <target>Thank You!</target>
+        <note>Class = "UILabel"; text = "Thank You!"; ObjectID = "7Ow-bp-CMu";</note>
+      </trans-unit>
+      <trans-unit id="8Hj-lC-upB.text" xml:space="preserve">
+        <source>John Doe</source>
+        <target>John Doe</target>
+        <note>Class = "UILabel"; text = "John Doe"; ObjectID = "8Hj-lC-upB";</note>
+      </trans-unit>
+      <trans-unit id="8v7-ag-gBR.text" xml:space="preserve">
+        <source>Language</source>
+        <target>Language</target>
+        <note>Class = "UILabel"; text = "Language"; ObjectID = "8v7-ag-gBR";</note>
+      </trans-unit>
+      <trans-unit id="8wy-BM-Sin.text" xml:space="preserve">
+        <source>Last Name</source>
+        <target>Last Name</target>
+        <note>Class = "UILabel"; text = "Last Name"; ObjectID = "8wy-BM-Sin";</note>
+      </trans-unit>
+      <trans-unit id="9BR-ZM-pZw.text" xml:space="preserve">
+        <source>Subject</source>
+        <target>Subject</target>
+        <note>Class = "UILabel"; text = "Subject"; ObjectID = "9BR-ZM-pZw";</note>
+      </trans-unit>
+      <trans-unit id="9bE-G3-pmo.text" xml:space="preserve">
+        <source>English</source>
+        <target>English</target>
+        <note>Class = "UILabel"; text = "English"; ObjectID = "9bE-G3-pmo";</note>
+      </trans-unit>
+      <trans-unit id="9e0-GF-b7O.text" xml:space="preserve">
+        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum</source>
+        <target>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum</target>
+        <note>Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum"; ObjectID = "9e0-GF-b7O";</note>
+      </trans-unit>
+      <trans-unit id="55j-Hw-rof.text" xml:space="preserve">
+        <source>No More Orders</source>
+        <target>No More Orders</target>
+        <note>Class = "UILabel"; text = "No More Orders"; ObjectID = "55j-Hw-rof";</note>
+      </trans-unit>
+      <trans-unit id="83w-gA-T7T.text" xml:space="preserve">
+        <source>Complains/problems or any issue.</source>
+        <target>Complains/problems or any issue.</target>
+        <note>Class = "UILabel"; text = "Complains/problems or any issue."; ObjectID = "83w-gA-T7T";</note>
+      </trans-unit>
+      <trans-unit id="84I-yu-bXJ.text" xml:space="preserve">
+        <source>5 BHD/ year</source>
+        <target>5 BHD/ year</target>
+        <note>Class = "UILabel"; text = "5 BHD/ year"; ObjectID = "84I-yu-bXJ";</note>
+      </trans-unit>
+      <trans-unit id="A8Y-Nc-dQz.text" xml:space="preserve">
+        <source>Arabic</source>
+        <target>Arabic</target>
+        <note>Class = "UILabel"; text = "Arabic"; ObjectID = "A8Y-Nc-dQz";</note>
+      </trans-unit>
+      <trans-unit id="AE7-fS-pSd.placeholder" xml:space="preserve">
+        <source>Choose your vehicle type</source>
+        <target>Choose your vehicle type</target>
+        <note>Class = "UITextField"; placeholder = "Choose your vehicle type"; ObjectID = "AE7-fS-pSd";</note>
+      </trans-unit>
+      <trans-unit id="AsP-Cx-41b.text" xml:space="preserve">
+        <source>Email Address</source>
+        <target>Email Address</target>
+        <note>Class = "UILabel"; text = "Email Address"; ObjectID = "AsP-Cx-41b";</note>
+      </trans-unit>
+      <trans-unit id="BSC-gx-Hwt.text" xml:space="preserve">
+        <source>Sep 06 2020 9:21 AM</source>
+        <target>Sep 06 2020 9:21 AM</target>
+        <note>Class = "UILabel"; text = "Sep 06 2020 9:21 AM"; ObjectID = "BSC-gx-Hwt";</note>
+      </trans-unit>
+      <trans-unit id="Bp8-Lx-YWc.text" xml:space="preserve">
+        <source>Login to manage your account</source>
+        <target>Login to manage your account</target>
+        <note>Class = "UILabel"; text = "Login to manage your account"; ObjectID = "Bp8-Lx-YWc";</note>
+      </trans-unit>
+      <trans-unit id="CDI-7D-iQM.text" xml:space="preserve">
+        <source>Complains</source>
+        <target>Complains</target>
+        <note>Class = "UILabel"; text = "Complains"; ObjectID = "CDI-7D-iQM";</note>
+      </trans-unit>
+      <trans-unit id="CHY-b0-VO7.text" xml:space="preserve">
+        <source>First Name</source>
+        <target>First Name</target>
+        <note>Class = "UILabel"; text = "First Name"; ObjectID = "CHY-b0-VO7";</note>
+      </trans-unit>
+      <trans-unit id="Coq-QZ-CaL.text" xml:space="preserve">
+        <source>27-09-2020</source>
+        <target>27-09-2020</target>
+        <note>Class = "UILabel"; text = "27-09-2020"; ObjectID = "Coq-QZ-CaL";</note>
+      </trans-unit>
+      <trans-unit id="DSP-Kr-Wo6.placeholder" xml:space="preserve">
+        <source>Vehicle registration number</source>
+        <target>Vehicle registration number</target>
+        <note>Class = "UITextField"; placeholder = "Vehicle registration number"; ObjectID = "DSP-Kr-Wo6";</note>
+      </trans-unit>
+      <trans-unit id="EWf-oX-opE.text" xml:space="preserve">
+        <source>3 Service</source>
+        <target>3 Service</target>
+        <note>Class = "UILabel"; text = "3 Service"; ObjectID = "EWf-oX-opE";</note>
+      </trans-unit>
+      <trans-unit id="EkY-0l-oUc.text" xml:space="preserve">
+        <source>Calesate Stater</source>
+        <target>Calesate Stater</target>
+        <note>Class = "UILabel"; text = "Calesate Stater"; ObjectID = "EkY-0l-oUc";</note>
+      </trans-unit>
+      <trans-unit id="Eq2-Q2-Zfe.text" xml:space="preserve">
+        <source>sam@gmail.com</source>
+        <target>sam@gmail.com</target>
+        <note>Class = "UILabel"; text = "sam@gmail.com"; ObjectID = "Eq2-Q2-Zfe";</note>
+      </trans-unit>
+      <trans-unit id="EuH-Dl-Dge.text" xml:space="preserve">
+        <source>Calesate Wise</source>
+        <target>Calesate Wise</target>
+        <note>Class = "UILabel"; text = "Calesate Wise"; ObjectID = "EuH-Dl-Dge";</note>
+      </trans-unit>
+      <trans-unit id="Fcy-qD-Fmc.text" xml:space="preserve">
+        <source>Message</source>
+        <target>Message</target>
+        <note>Class = "UILabel"; text = "Message"; ObjectID = "Fcy-qD-Fmc";</note>
+      </trans-unit>
+      <trans-unit id="FeU-28-H0z.text" xml:space="preserve">
+        <source>Feedback....</source>
+        <target>Feedback....</target>
+        <note>Class = "UITextView"; text = "Feedback...."; ObjectID = "FeU-28-H0z";</note>
+      </trans-unit>
+      <trans-unit id="FhD-Lg-fcD.text" xml:space="preserve">
+        <source>Unlimited and fast assist</source>
+        <target>Unlimited and fast assist</target>
+        <note>Class = "UILabel"; text = "Unlimited and fast assist"; ObjectID = "FhD-Lg-fcD";</note>
+      </trans-unit>
+      <trans-unit id="FiM-nc-6l0.text" xml:space="preserve">
+        <source>My Order</source>
+        <target>My Order</target>
+        <note>Class = "UILabel"; text = "My Order"; ObjectID = "FiM-nc-6l0";</note>
+      </trans-unit>
+      <trans-unit id="GGa-HL-tpj.text" xml:space="preserve">
+        <source>7403-RUA</source>
+        <target>7403-RUA</target>
+        <note>Class = "UILabel"; text = "7403-RUA"; ObjectID = "GGa-HL-tpj";</note>
+      </trans-unit>
+      <trans-unit id="GKW-bT-LyQ.text" xml:space="preserve">
+        <source>Emal Address</source>
+        <target>Emal Address</target>
+        <note>Class = "UILabel"; text = "Emal Address"; ObjectID = "GKW-bT-LyQ";</note>
+      </trans-unit>
+      <trans-unit id="HHp-u7-IdW.text" xml:space="preserve">
+        <source>John Doe</source>
+        <target>John Doe</target>
+        <note>Class = "UILabel"; text = "John Doe"; ObjectID = "HHp-u7-IdW";</note>
+      </trans-unit>
+      <trans-unit id="I4R-or-kAw.text" xml:space="preserve">
+        <source>Service History</source>
+        <target>Service History</target>
+        <note>Class = "UILabel"; text = "Service History"; ObjectID = "I4R-or-kAw";</note>
+      </trans-unit>
+      <trans-unit id="Ikl-n8-ThI.text" xml:space="preserve">
+        <source>Vehicle ownership image</source>
+        <target>Vehicle ownership image</target>
+        <note>Class = "UILabel"; text = "Vehicle ownership image"; ObjectID = "Ikl-n8-ThI";</note>
+      </trans-unit>
+      <trans-unit id="Kb9-lD-KY9.text" xml:space="preserve">
+        <source>Complains</source>
+        <target>Complains</target>
+        <note>Class = "UILabel"; text = "Complains"; ObjectID = "Kb9-lD-KY9";</note>
+      </trans-unit>
+      <trans-unit id="Keg-E0-1Ph.text" xml:space="preserve">
+        <source>7292 dictum Av. san  47096</source>
+        <target>7292 dictum Av. san  47096</target>
+        <note>Class = "UILabel"; text = "7292 dictum Av. san  47096"; ObjectID = "Keg-E0-1Ph";</note>
+      </trans-unit>
+      <trans-unit id="Kfj-dA-Tae.text" xml:space="preserve">
+        <source>No extra charges</source>
+        <target>No extra charges</target>
+        <note>Class = "UILabel"; text = "No extra charges"; ObjectID = "Kfj-dA-Tae";</note>
+      </trans-unit>
+      <trans-unit id="Kiq-1s-FJc.text" xml:space="preserve">
+        <source>Mobile Number</source>
+        <target>Mobile Number</target>
+        <note>Class = "UILabel"; text = "Mobile Number"; ObjectID = "Kiq-1s-FJc";</note>
+      </trans-unit>
+      <trans-unit id="Kk1-e8-OWU.text" xml:space="preserve">
+        <source>Push Notification</source>
+        <target>Push Notification</target>
+        <note>Class = "UILabel"; text = "Push Notification"; ObjectID = "Kk1-e8-OWU";</note>
+      </trans-unit>
+      <trans-unit id="LaY-C9-eC3.text" xml:space="preserve">
+        <source>We have sent a OTP to 9719495539</source>
+        <target>We have sent a OTP to 9719495539</target>
+        <note>Class = "UILabel"; text = "We have sent a OTP to 9719495539"; ObjectID = "LaY-C9-eC3";</note>
+      </trans-unit>
+      <trans-unit id="Lj7-tH-jgK.text" xml:space="preserve">
+        <source>OTP Verification</source>
+        <target>OTP Verification</target>
+        <note>Class = "UILabel"; text = "OTP Verification"; ObjectID = "Lj7-tH-jgK";</note>
+      </trans-unit>
+      <trans-unit id="MDi-cC-Qft.text" xml:space="preserve">
+        <source>Welcome to Express Assist.</source>
+        <target>Welcome to Express Assist.</target>
+        <note>Class = "UILabel"; text = "Welcome to Express Assist."; ObjectID = "MDi-cC-Qft";</note>
+      </trans-unit>
+      <trans-unit id="Nhd-7o-peI.text" xml:space="preserve">
+        <source>My Profile</source>
+        <target>My Profile</target>
+        <note>Class = "UILabel"; text = "My Profile"; ObjectID = "Nhd-7o-peI";</note>
+      </trans-unit>
+      <trans-unit id="O24-Sz-Kl7.normalTitle" xml:space="preserve">
+        <source>RESET PASSWORD</source>
+        <target>RESET PASSWORD</target>
+        <note>Class = "UIButton"; normalTitle = "RESET PASSWORD"; ObjectID = "O24-Sz-Kl7";</note>
+      </trans-unit>
+      <trans-unit id="PE9-EN-ozX.text" xml:space="preserve">
+        <source>Last Name</source>
+        <target>Last Name</target>
+        <note>Class = "UILabel"; text = "Last Name"; ObjectID = "PE9-EN-ozX";</note>
+      </trans-unit>
+      <trans-unit id="PR2-Bg-eVx.normalTitle" xml:space="preserve">
+        <source>CONTINUE</source>
+        <target>CONTINUE</target>
+        <note>Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "PR2-Bg-eVx";</note>
+      </trans-unit>
+      <trans-unit id="Plp-uw-Txu.text" xml:space="preserve">
+        <source>One time payment for complete year</source>
+        <target>One time payment for complete year</target>
+        <note>Class = "UILabel"; text = "One time payment for complete year"; ObjectID = "Plp-uw-Txu";</note>
+      </trans-unit>
+      <trans-unit id="Q5E-f3-9Xr.text" xml:space="preserve">
+        <source>Arabic</source>
+        <target>Arabic</target>
+        <note>Class = "UILabel"; text = "Arabic"; ObjectID = "Q5E-f3-9Xr";</note>
+      </trans-unit>
+      <trans-unit id="QU2-uU-2x4.text" xml:space="preserve">
+        <source>Charged yearly *Non refundable</source>
+        <target>Charged yearly *Non refundable</target>
+        <note>Class = "UILabel"; text = "Charged yearly *Non refundable"; ObjectID = "QU2-uU-2x4";</note>
+      </trans-unit>
+      <trans-unit id="QlJ-j6-Lrc.text" xml:space="preserve">
+        <source>Samar Husain</source>
+        <target>Samar Husain</target>
+        <note>Class = "UILabel"; text = "Samar Husain"; ObjectID = "QlJ-j6-Lrc";</note>
+      </trans-unit>
+      <trans-unit id="QmK-T2-7YY.text" xml:space="preserve">
+        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever</source>
+        <target>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever</target>
+        <note>Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"; ObjectID = "QmK-T2-7YY";</note>
+      </trans-unit>
+      <trans-unit id="QqH-ak-PV3.normalTitle" xml:space="preserve">
+        <source>Back to sign in</source>
+        <target>Back to sign in</target>
+        <note>Class = "UIButton"; normalTitle = "Back to sign in"; ObjectID = "QqH-ak-PV3";</note>
+      </trans-unit>
+      <trans-unit id="REY-zk-EVj.text" xml:space="preserve">
+        <source>Notification Title</source>
+        <target>Notification Title</target>
+        <note>Class = "UILabel"; text = "Notification Title"; ObjectID = "REY-zk-EVj";</note>
+      </trans-unit>
+      <trans-unit id="RPO-aJ-u1x.text" xml:space="preserve">
+        <source>Registred on 14th Aug 2020</source>
+        <target>Registred on 14th Aug 2020</target>
+        <note>Class = "UILabel"; text = "Registred on 14th Aug 2020"; ObjectID = "RPO-aJ-u1x";</note>
+      </trans-unit>
+      <trans-unit id="RRp-jL-hPg.text" xml:space="preserve">
+        <source>7292 dictum Av. san Anronio Mi 47096</source>
+        <target>7292 dictum Av. san Anronio Mi 47096</target>
+        <note>Class = "UILabel"; text = "7292 dictum Av. san Anronio Mi 47096"; ObjectID = "RRp-jL-hPg";</note>
+      </trans-unit>
+      <trans-unit id="T2N-J4-R8b.text" xml:space="preserve">
+        <source>Choose Language</source>
+        <target>Choose Language</target>
+        <note>Class = "UILabel"; text = "Choose Language"; ObjectID = "T2N-J4-R8b";</note>
+      </trans-unit>
+      <trans-unit id="UMQ-e2-1lD.text" xml:space="preserve">
+        <source>Samar Husain</source>
+        <target>Samar Husain</target>
+        <note>Class = "UILabel"; text = "Samar Husain"; ObjectID = "UMQ-e2-1lD";</note>
+      </trans-unit>
+      <trans-unit id="VQ3-m1-4gN.text" xml:space="preserve">
+        <source>Add new vehicle</source>
+        <target>Add new vehicle</target>
+        <note>Class = "UILabel"; text = "Add new vehicle"; ObjectID = "VQ3-m1-4gN";</note>
+      </trans-unit>
+      <trans-unit id="WkJ-6Z-tQH.text" xml:space="preserve">
+        <source>First Name</source>
+        <target>First Name</target>
+        <note>Class = "UILabel"; text = "First Name"; ObjectID = "WkJ-6Z-tQH";</note>
+      </trans-unit>
+      <trans-unit id="Wof-vp-O5J.normalTitle" xml:space="preserve">
+        <source>SEND OTP</source>
+        <target>SEND OTP</target>
+        <note>Class = "UIButton"; normalTitle = "SEND OTP"; ObjectID = "Wof-vp-O5J";</note>
+      </trans-unit>
+      <trans-unit id="Xww-pH-xwa.text" xml:space="preserve">
+        <source>7292 dictum Av. san  47096</source>
+        <target>7292 dictum Av. san  47096</target>
+        <note>Class = "UILabel"; text = "7292 dictum Av. san  47096"; ObjectID = "Xww-pH-xwa";</note>
+      </trans-unit>
+      <trans-unit id="ZIW-nb-oll.text" xml:space="preserve">
+        <source>Meet John Doe at the pickup points</source>
+        <target>Meet John Doe at the pickup points</target>
+        <note>Class = "UILabel"; text = "Meet John Doe at the pickup points"; ObjectID = "ZIW-nb-oll";</note>
+      </trans-unit>
+      <trans-unit id="ZmD-yk-ilP.text" xml:space="preserve">
+        <source>7292 dictum Av. san  47096</source>
+        <target>7292 dictum Av. san  47096</target>
+        <note>Class = "UILabel"; text = "7292 dictum Av. san  47096"; ObjectID = "ZmD-yk-ilP";</note>
+      </trans-unit>
+      <trans-unit id="aC5-4u-fty.text" xml:space="preserve">
+        <source>606-357 Ullamcorpor. street Roseville NH 11525</source>
+        <target>606-357 Ullamcorpor. street Roseville NH 11525</target>
+        <note>Class = "UILabel"; text = "606-357 Ullamcorpor. street Roseville NH 11525"; ObjectID = "aC5-4u-fty";</note>
+      </trans-unit>
+      <trans-unit id="aaF-6N-6HX.text" xml:space="preserve">
+        <source>Emal Address</source>
+        <target>Emal Address</target>
+        <note>Class = "UILabel"; text = "Emal Address"; ObjectID = "aaF-6N-6HX";</note>
+      </trans-unit>
+      <trans-unit id="bTf-FJ-uxD.text" xml:space="preserve">
+        <source>7/24 priority support</source>
+        <target>7/24 priority support</target>
+        <note>Class = "UILabel"; text = "7/24 priority support"; ObjectID = "bTf-FJ-uxD";</note>
+      </trans-unit>
+      <trans-unit id="c5F-lt-GXA.normalTitle" xml:space="preserve">
+        <source>REGISTER NOW</source>
+        <target>REGISTER NOW</target>
+        <note>Class = "UIButton"; normalTitle = "REGISTER NOW"; ObjectID = "c5F-lt-GXA";</note>
+      </trans-unit>
+      <trans-unit id="cGg-6a-Unp.text" xml:space="preserve">
+        <source>7292 dictum Av. san  47096</source>
+        <target>7292 dictum Av. san  47096</target>
+        <note>Class = "UILabel"; text = "7292 dictum Av. san  47096"; ObjectID = "cGg-6a-Unp";</note>
+      </trans-unit>
+      <trans-unit id="cP0-ZR-3FU.text" xml:space="preserve">
+        <source>English</source>
+        <target>English</target>
+        <note>Class = "UILabel"; text = "English"; ObjectID = "cP0-ZR-3FU";</note>
+      </trans-unit>
+      <trans-unit id="dgg-Yf-1ms.text" xml:space="preserve">
+        <source>Towing track will arrive in 30 min (40 km)</source>
+        <target>Towing track will arrive in 30 min (40 km)</target>
+        <note>Class = "UILabel"; text = "Towing track will arrive in 30 min (40 km)"; ObjectID = "dgg-Yf-1ms";</note>
+      </trans-unit>
+      <trans-unit id="dwV-20-ZPd.text" xml:space="preserve">
+        <source>Notifications</source>
+        <target>Notifications</target>
+        <note>Class = "UILabel"; text = "Notifications"; ObjectID = "dwV-20-ZPd";</note>
+      </trans-unit>
+      <trans-unit id="e3p-hk-kRu.normalTitle" xml:space="preserve">
+        <source>Varify OTP</source>
+        <target>Varify OTP</target>
+        <note>Class = "UIButton"; normalTitle = "Varify OTP"; ObjectID = "e3p-hk-kRu";</note>
+      </trans-unit>
+      <trans-unit id="efx-Yx-dIs.text" xml:space="preserve">
+        <source>Edit Profile</source>
+        <target>Edit Profile</target>
+        <note>Class = "UILabel"; text = "Edit Profile"; ObjectID = "efx-Yx-dIs";</note>
+      </trans-unit>
+      <trans-unit id="fOo-SF-olD.normalTitle" xml:space="preserve">
+        <source>CONTINUE</source>
+        <target>CONTINUE</target>
+        <note>Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "fOo-SF-olD";</note>
+      </trans-unit>
+      <trans-unit id="gjE-dF-VtA.text" xml:space="preserve">
+        <source>Welcome Back</source>
+        <target>Welcome Back</target>
+        <note>Class = "UILabel"; text = "Welcome Back"; ObjectID = "gjE-dF-VtA";</note>
+      </trans-unit>
+      <trans-unit id="hfU-AK-vCs.text" xml:space="preserve">
+        <source>Enter your email address below</source>
+        <target>Enter your email address below</target>
+        <note>Class = "UILabel"; text = "Enter your email address below"; ObjectID = "hfU-AK-vCs";</note>
+      </trans-unit>
+      <trans-unit id="hhI-Us-qmp.text" xml:space="preserve">
+        <source>Calista Wise</source>
+        <target>Calista Wise</target>
+        <note>Class = "UILabel"; text = "Calista Wise"; ObjectID = "hhI-Us-qmp";</note>
+      </trans-unit>
+      <trans-unit id="jrC-Du-J35.normalTitle" xml:space="preserve">
+        <source>CHOOSE PLAN</source>
+        <target>CHOOSE PLAN</target>
+        <note>Class = "UIButton"; normalTitle = "CHOOSE PLAN"; ObjectID = "jrC-Du-J35";</note>
+      </trans-unit>
+      <trans-unit id="jtW-XF-PdE.text" xml:space="preserve">
+        <source>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum</source>
+        <target>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum</target>
+        <note>Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum"; ObjectID = "jtW-XF-PdE";</note>
+      </trans-unit>
+      <trans-unit id="jyf-Ib-6ET.text" xml:space="preserve">
+        <source>Mobile Number</source>
+        <target>Mobile Number</target>
+        <note>Class = "UILabel"; text = "Mobile Number"; ObjectID = "jyf-Ib-6ET";</note>
+      </trans-unit>
+      <trans-unit id="kDh-Sw-APx.text" xml:space="preserve">
+        <source>Notification</source>
+        <target>Notification</target>
+        <note>Class = "UILabel"; text = "Notification"; ObjectID = "kDh-Sw-APx";</note>
+      </trans-unit>
+      <trans-unit id="khb-cB-4Jn.normalTitle" xml:space="preserve">
+        <source>SUBMIT</source>
+        <target>SUBMIT</target>
+        <note>Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "khb-cB-4Jn";</note>
+      </trans-unit>
+      <trans-unit id="kuD-8k-Fl7.text" xml:space="preserve">
+        <source>Fill out the form to get started.</source>
+        <target>Fill out the form to get started.</target>
+        <note>Class = "UILabel"; text = "Fill out the form to get started."; ObjectID = "kuD-8k-Fl7";</note>
+      </trans-unit>
+      <trans-unit id="lnG-q8-9L7.text" xml:space="preserve">
+        <source>Avaliablity</source>
+        <target>Avaliablity</target>
+        <note>Class = "UILabel"; text = "Avaliablity"; ObjectID = "lnG-q8-9L7";</note>
+      </trans-unit>
+      <trans-unit id="lxp-U0-ff3.text" xml:space="preserve">
+        <source>John Doe</source>
+        <target>John Doe</target>
+        <note>Class = "UILabel"; text = "John Doe"; ObjectID = "lxp-U0-ff3";</note>
+      </trans-unit>
+      <trans-unit id="nJv-ii-Eyl.text" xml:space="preserve">
+        <source>Booking Request</source>
+        <target>Booking Request</target>
+        <note>Class = "UILabel"; text = "Booking Request"; ObjectID = "nJv-ii-Eyl";</note>
+      </trans-unit>
+      <trans-unit id="oCv-aI-23N.text" xml:space="preserve">
+        <source>Order#1976435</source>
+        <target>Order#1976435</target>
+        <note>Class = "UILabel"; text = "Order#1976435"; ObjectID = "oCv-aI-23N";</note>
+      </trans-unit>
+      <trans-unit id="ohd-69-zAH.text" xml:space="preserve">
+        <source>606-357 Ullamcorpor. street Roseville NH 11525</source>
+        <target>606-357 Ullamcorpor. street Roseville NH 11525</target>
+        <note>Class = "UILabel"; text = "606-357 Ullamcorpor. street Roseville NH 11525"; ObjectID = "ohd-69-zAH";</note>
+      </trans-unit>
+      <trans-unit id="ols-aq-Sxs.text" xml:space="preserve">
+        <source>Choose Language</source>
+        <target>Choose Language</target>
+        <note>Class = "UILabel"; text = "Choose Language"; ObjectID = "ols-aq-Sxs";</note>
+      </trans-unit>
+      <trans-unit id="pMq-Ve-h2N.text" xml:space="preserve">
+        <source>Mobile Number</source>
+        <target>Mobile Number</target>
+        <note>Class = "UILabel"; text = "Mobile Number"; ObjectID = "pMq-Ve-h2N";</note>
+      </trans-unit>
+      <trans-unit id="qEP-QH-Iic.normalTitle" xml:space="preserve">
+        <source>SAVE</source>
+        <target>SAVE</target>
+        <note>Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "qEP-QH-Iic";</note>
+      </trans-unit>
+      <trans-unit id="rNa-pc-v1J.text" xml:space="preserve">
+        <source>7292 dictum Av. san  47096</source>
+        <target>7292 dictum Av. san  47096</target>
+        <note>Class = "UILabel"; text = "7292 dictum Av. san  47096"; ObjectID = "rNa-pc-v1J";</note>
+      </trans-unit>
+      <trans-unit id="sS9-yl-zZ1.text" xml:space="preserve">
+        <source>English</source>
+        <target>English</target>
+        <note>Class = "UILabel"; text = "English"; ObjectID = "sS9-yl-zZ1";</note>
+      </trans-unit>
+      <trans-unit id="tA9-ki-tyx.text" xml:space="preserve">
+        <source>John Deo</source>
+        <target>John Deo</target>
+        <note>Class = "UILabel"; text = "John Deo"; ObjectID = "tA9-ki-tyx";</note>
+      </trans-unit>
+      <trans-unit id="tSl-jK-e8a.text" xml:space="preserve">
+        <source>Vehicle Type</source>
+        <target>Vehicle Type</target>
+        <note>Class = "UILabel"; text = "Vehicle Type"; ObjectID = "tSl-jK-e8a";</note>
+      </trans-unit>
+      <trans-unit id="uGt-CV-HM0.text" xml:space="preserve">
+        <source>My Vechicle</source>
+        <target>My Vechicle</target>
+        <note>Class = "UILabel"; text = "My Vechicle"; ObjectID = "uGt-CV-HM0";</note>
+      </trans-unit>
+      <trans-unit id="ubw-Sp-lYf.text" xml:space="preserve">
+        <source>Payment</source>
+        <target>Payment</target>
+        <note>Class = "UILabel"; text = "Payment"; ObjectID = "ubw-Sp-lYf";</note>
+      </trans-unit>
+      <trans-unit id="uqp-YV-Kmp.normalTitle" xml:space="preserve">
+        <source>Track Order</source>
+        <target>Track Order</target>
+        <note>Class = "UIButton"; normalTitle = "Track Order"; ObjectID = "uqp-YV-Kmp";</note>
+      </trans-unit>
+      <trans-unit id="vfm-gI-khn.text" xml:space="preserve">
+        <source>وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا</source>
+        <target>وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا</target>
+        <note>Class = "UILabel"; text = "وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا"; ObjectID = "vfm-gI-khn";</note>
+      </trans-unit>
+      <trans-unit id="xYe-3i-T5c.text" xml:space="preserve">
+        <source>8057642535</source>
+        <target>8057642535</target>
+        <note>Class = "UILabel"; text = "8057642535"; ObjectID = "xYe-3i-T5c";</note>
+      </trans-unit>
+      <trans-unit id="xan-6Y-val.text" xml:space="preserve">
+        <source>Subscription Plan</source>
+        <target>Subscription Plan</target>
+        <note>Class = "UILabel"; text = "Subscription Plan"; ObjectID = "xan-6Y-val";</note>
+      </trans-unit>
+      <trans-unit id="y8m-OD-3cx.text" xml:space="preserve">
+        <source>7292 dictum Av. san  47096</source>
+        <target>7292 dictum Av. san  47096</target>
+        <note>Class = "UILabel"; text = "7292 dictum Av. san  47096"; ObjectID = "y8m-OD-3cx";</note>
+      </trans-unit>
+      <trans-unit id="yQd-UX-Ddc.text" xml:space="preserve">
+        <source>Choose your preferred language</source>
+        <target>Choose your preferred language</target>
+        <note>Class = "UILabel"; text = "Choose your preferred language"; ObjectID = "yQd-UX-Ddc";</note>
+      </trans-unit>
+      <trans-unit id="yfe-Fm-SuG.text" xml:space="preserve">
+        <source>Set up push notification</source>
+        <target>Set up push notification</target>
+        <note>Class = "UILabel"; text = "Set up push notification"; ObjectID = "yfe-Fm-SuG";</note>
+      </trans-unit>
+      <trans-unit id="yhi-lZ-bVV.text" xml:space="preserve">
+        <source>Towing truck arriving in 30 min</source>
+        <target>Towing truck arriving in 30 min</target>
+        <note>Class = "UILabel"; text = "Towing truck arriving in 30 min"; ObjectID = "yhi-lZ-bVV";</note>
+      </trans-unit>
+      <trans-unit id="ykx-Br-Jfi.text" xml:space="preserve">
+        <source>Notifications</source>
+        <target>Notifications</target>
+        <note>Class = "UILabel"; text = "Notifications"; ObjectID = "ykx-Br-Jfi";</note>
+      </trans-unit>
+      <trans-unit id="ylU-t0-TsU.text" xml:space="preserve">
+        <source>We are glad to you liked assist any comments?</source>
+        <target>We are glad to you liked assist any comments?</target>
+        <note>Class = "UILabel"; text = "We are glad to you liked assist any comments?"; ObjectID = "ylU-t0-TsU";</note>
+      </trans-unit>
+      <trans-unit id="zSi-cU-RJv.normalTitle" xml:space="preserve">
+        <source>X</source>
+        <target>X</target>
+        <note>Class = "UIButton"; normalTitle = "X"; ObjectID = "zSi-cU-RJv";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ExpressAssist/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ar">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B500"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>ExpressAssist</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSLocationAlwaysAndWhenInUseUsageDescription" xml:space="preserve">
+        <source/>
+        <note>Privacy - Location Always and When In Use Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationAlwaysUsageDescription" xml:space="preserve">
+        <source>$(PRODUCT_NAME) location use</source>
+        <note>Privacy - Location Always Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+        <source/>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ExpressAssist/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="ar">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.2.1" build-num="11B500"/>
+    </header>
+    <body>
+      <trans-unit id="langPara" xml:space="preserve">
+        <source>langPara</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,8 @@
+/* Bundle name */
+"CFBundleName" = "ExpressAssist";
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "";
+/* Privacy - Location Always Usage Description */
+"NSLocationAlwaysUsageDescription" = "$(PRODUCT_NAME) location use";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "";
